@@ -1,4 +1,5 @@
 First-Git
 =========
+Makers Academy Pre-course Week 2 Challenge.
 
-Makers Academy Pre-course Exercise to learn to use GitHub.
+An exercise for learning to use git and GitHub in preparation for our work at Makers Academy.
